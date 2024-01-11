@@ -1,5 +1,5 @@
 # SYMPTOMIFY
-Dataset and implementation of the paper SYMPTOMIFY: Transforming Symptom Annotations with Language Model Knowledge Harvesting (EMNLP Findings 2023). SYMPTOMIFY is a large-scale dataset of over 800k annotated reports, reflecting reactions to medications and vaccines. It includes MedDRA symptoms, annotation explanations, and background knowledge about symptoms, designed to facilitate development of systems that can aid human annotators operating in the critically important public health domain.
+Dataset and implementation of the paper [SYMPTOMIFY: Transforming Symptom Annotations with Language Model Knowledge Harvesting](https://aclanthology.org/2023.findings-emnlp.781/) (EMNLP Findings 2023). SYMPTOMIFY is a large-scale dataset of over 800k annotated reports, reflecting reactions to medications and vaccines. It includes MedDRA symptoms, annotation explanations, and background knowledge about symptoms, designed to facilitate development of systems that can aid human annotators operating in the critically important public health domain.
 
 ## Download Data and Data Format
 Download: https://drive.google.com/drive/folders/1w4zNKoYRWAnQGZv3hVAAyhttKk1RLKvQ?usp=share_link
