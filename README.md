@@ -4,9 +4,10 @@ Dataset and implementation of the paper [SYMPTOMIFY: Transforming Symptom Annota
 SYMPTOMIFY is built based on the Vaccine Adverse Event Reporting System (VAERS) database managed by the U.S. Centers for Disease Control and Prevention (CDC) the U.S. Food and Drug Administration (FDA). The dataset spans three years (2019-2021) and includes 839,215 reports, incorporating symptom texts, relevant MedDRA terms, and associated metadata like age, sex, and vaccine type. The original VAERS data can be found [here](https://vaers.hhs.gov/data.html).
 
 
-## Download Data and Data Format
+## Download
 Download: https://drive.google.com/drive/folders/1w4zNKoYRWAnQGZv3hVAAyhttKk1RLKvQ?usp=share_link
 
+## Data Format
 Each line of .json files is one report of VAERS.
 - `vid`: VAERS database entry id; you can map each example to VAERS's database using this id
 - `symptom_text`: Symptom text (VAERSreports) 
